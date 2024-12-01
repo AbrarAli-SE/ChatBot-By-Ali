@@ -26,6 +26,4 @@ This Android app allows users to interact with OpenAI's GPT model to ask questio
 
 ### **1. Clone the Repository**
 
-```bash
-git clone https://github.com/your-username/chatgpt-android-app.git
-cd chatgpt-android-app
+https://github.com/AbrarAli-SE/ChatBot-By-Ali.git
